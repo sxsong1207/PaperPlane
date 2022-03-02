@@ -9,7 +9,7 @@ apikeyProperties.load(new FileInputStream(apikeyPropertiesFile))
 android {
     compileSdkVersion 30
     defaultConfig {
-        applicationId "com.mickstarify.zooforzotero"
+        applicationId "xyz.sxsong.paperplane"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 46
@@ -37,6 +37,9 @@ android {
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
     }
 }
 

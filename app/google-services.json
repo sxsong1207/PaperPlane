@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301535458873",
+    "project_id": "paperplane-414bd",
+    "storage_bucket": "paperplane-414bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301535458873:android:adf67ec7bb5a796eeb7fe8",
+        "android_client_info": {
+          "package_name": "xyz.sxsong.paperplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301535458873-24psre8m56dic4mhvn0deguulba20em5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuEmqFbO6652n8NcXnVo0NhhNnlXhqRj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301535458873-24psre8m56dic4mhvn0deguulba20em5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

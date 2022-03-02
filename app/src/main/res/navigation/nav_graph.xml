@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/libraryListFragment"
-        android:name="com.mickstarify.zooforzotero.LibraryActivity.Fragments.LibraryListFragment"
+        android:name="xyz.sxsong.paperplane.LibraryActivity.Fragments.LibraryListFragment"
         android:label="library_list_fragment"
         tools:layout="@layout/library_list_fragment">
         <action
@@ -18,12 +18,12 @@
     </fragment>
     <fragment
         android:id="@+id/barcodeScanningScreen"
-        android:name="com.mickstarify.zooforzotero.LibraryActivity.Fragments.BarcodeScanningScreen"
+        android:name="xyz.sxsong.paperplane.LibraryActivity.Fragments.BarcodeScanningScreen"
         android:label="barcode_scanning_screen_fragment"
         tools:layout="@layout/barcode_scanning_screen_fragment" />
     <fragment
         android:id="@+id/libraryLoadingScreen"
-        android:name="com.mickstarify.zooforzotero.LibraryActivity.Fragments.LibraryLoadingScreen"
+        android:name="xyz.sxsong.paperplane.LibraryActivity.Fragments.LibraryLoadingScreen"
         android:label="LibraryLoadingScreen">
         <action
             android:id="@+id/action_libraryLoadingScreen_to_libraryListFragment"
